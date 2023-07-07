@@ -1,0 +1,18 @@
+[
+  {
+    "name": "valid login",
+    "email": "test_user_1"
+  },
+  {
+    "name": "missing tdl",
+    "email": "testeamil@test"
+  },
+  {
+    "name": "missing tdl with dot",
+    "email": "testeamil@test."
+  },
+  {
+    "name": "just @",
+    "email": "testeamil@"
+  }
+]

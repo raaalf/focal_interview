@@ -1,0 +1,6 @@
+ENV
+venv
+.idea
+.pytest_cache
+assets
+report.html
